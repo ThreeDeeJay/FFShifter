@@ -1,6 +1,7 @@
 Originally available at http://forum.rscnet.org/showthread.php?t=214673 (currently down with no known backup)
 Then mirrored at https://www.angelfire.com/nm/neogeoinserts/hshifter/h_shifter.htm
-Below is the original documentation (bear in mind some info may be outdated):
+
+Below is the markdown version of the [original documentation](https://github.com/ThreeDeeJay/FFShifter/blob/main/README.pdf) (bear in mind some info may be outdated):
 
 # FFShifter v1.0 BETA 0.
 
