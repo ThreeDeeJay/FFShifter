@@ -1,13 +1,13 @@
-Originally available at http://forum.rscnet.org/showthread.php?t=214673 (currently down with no known backup)
+Originally available at http://forum.rscnet.org/showthread.php?t=214673 (currently down with no known backup)  
 Then mirrored at https://www.angelfire.com/nm/neogeoinserts/hshifter/h_shifter.htm
+
+[Demo](https://www.reddit.com/r/simracing/comments/uogc4g/diy_shifter_with_ff_joystick/) by [EduardoMCfly](https://www.youtube.com/@EduardoMCfly)
+
+https://github.com/user-attachments/assets/c7059f05-11fd-483b-b305-7a352e6dad36
 
 Below is the markdown version of the [original documentation](https://github.com/ThreeDeeJay/FFShifter/blob/main/README.pdf) (bear in mind some info may be outdated):
 
-# FFShifter v1.0 BETA 0.
-
-# Important:
-
-# This is FFShifter v1.0 BETA 0.
+# FFShifter v1.0 BETA 0.3
 
 This software comes with no warranties of any kind.
 
